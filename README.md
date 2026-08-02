@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm GabrielX!</h1>
-<h3 align="center">I'm a 15 year old Software Engineer and Content Creator.</h3>
+<h3 align="center">I am a 15 year old Discord Bots developer..</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gabrielisreal&label=Total%20Views&color=b700bf&style=flat" alt="Total Views" />
@@ -11,7 +11,7 @@
 
 <h4 align="center">- About Me - </h4>
 
-- 💬 Ask me about: **System Scripting, Windows API, Reverse Engineering and Tutorial-Style Content Creation.**
+- 💬 Ask me about: **Python code and reverse engineering**
   
 ---
 
